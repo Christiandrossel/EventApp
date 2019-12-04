@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "234923216903",
+    "firebase_url": "https://eventapp-cdd43.firebaseio.com",
+    "project_id": "eventapp-cdd43",
+    "storage_bucket": "eventapp-cdd43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234923216903:android:dcf380520e98d02a42daa2",
+        "android_client_info": {
+          "package_name": "com.dude.eventapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234923216903-l100meh2ip3v5440intpnqrjkp4n4q7a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dude.eventapp",
+            "certificate_hash": "9b7b3ef4bc4c7b9710a8ad0a5e6c097cb4b88c0a"
+          }
+        },
+        {
+          "client_id": "234923216903-be983bngnibm7fjik8p0u44lmgcqlrab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ3GaBCyTpC5_kEeSd5LTW78h8YdOZpX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234923216903-be983bngnibm7fjik8p0u44lmgcqlrab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
